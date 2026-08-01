@@ -1,16 +1,19 @@
-## Hi there 👋
+## 📊 GitHub & LeetCode Statistics
 
-<!--
-**rajputanuj303/rajputanuj303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rajputanuj303&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" width="48%" />
+  
+  <!-- GitHub Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajputanuj303&layout=compact&hide_border=true&theme=radical" alt="Top Languages" width="48%" />
 
-Here are some ideas to get you started:
+  <br/><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- GitHub Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajputanuj303&hide_border=true&theme=radical" alt="GitHub Streak" width="48%" />
+
+  <!-- LeetCode Stats Card -->
+  <img src="https://leetcard.jacoblin.cool/rajputanuj303?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" width="48%" />
+
+</div>
