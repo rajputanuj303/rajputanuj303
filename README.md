@@ -3,10 +3,10 @@
 <div align="center">
   
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rajputanuj303&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajputanuj303&show_icons=true&hide_border=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" width="48%" />
   
   <!-- GitHub Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajputanuj303&layout=compact&hide_border=true&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajputanuj303&layout=compact&hide_border=true&theme=radical&cache_seconds=86400" alt="Top Languages" width="48%" />
 
   <br/><br/>
 
