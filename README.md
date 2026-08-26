@@ -46,8 +46,6 @@
   </a>
 </p>
 
-### 📫 Profiles
-
 <p align="center">
   <strong>LeetCode:</strong> <a href="https://leetcode.com/u/rajputanuj303">rajputanuj303</a> &nbsp;&nbsp;|&nbsp;&nbsp;
   <strong>Codeforces:</strong> <a href="https://codeforces.com/profile/rajputanuj303">rajputanuj303</a> &nbsp;&nbsp;|&nbsp;&nbsp;
