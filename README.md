@@ -26,23 +26,20 @@
 ### 📊 GitHub & Coding Status
 
 <p align="center">
-  <!-- GitHub Stats Card -->
+  <!-- GitHub Stats Card (Centered on top) -->
   <a href="https://github.com/rajputanuj303">
     <img src="https://github-readme-stats.vercel.app/api?username=rajputanuj303&show_icons=true&theme=transparent&hide_border=true" alt="Anuj's GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
-  <!-- LeetCode Stats Card -->
+  <!-- LeetCode and Codeforces Cards (Side-by-side) -->
   <a href="https://leetcode.com/u/rajputanuj303">
-    <img src="https://leetcard.jacoblin.cool/rajputanuj303?theme=transparent&ext=contest" alt="Anuj's LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/rajputanuj303?theme=transparent&ext=activity" alt="Anuj's LeetCode Stats" height="190" />
   </a>
-</p>
-
-<p align="center">
-  <!-- Codeforces Stats Card -->
+  &nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/rajputanuj303">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=rajputanuj303&theme=transparent&hide_border=true" alt="Anuj's Codeforces Stats" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=rajputanuj303&theme=transparent&hide_border=true" alt="Anuj's Codeforces Stats" height="190" />
   </a>
 </p>
 
