@@ -19,12 +19,12 @@
 - **GitHub:** [rajputanuj303](https://github.com/rajputanuj303)
 
 ### 🛠️ Tech Stack
-**Languages:** C++, Python, JavaScript, SQL[cite: 1]
-**Backend & Databases:** MySQL, MongoDB, Node.js, Express.js, RESTful APIs, WebSockets, Redis[cite: 1]
-**Core CS:** Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks[cite: 1]
-**System Design:** Distributed Systems, Object-Oriented Design[cite: 1]
-**AI/ML:** AI/ML Fundamentals, NLP, Generative AI[cite: 1]
-**Development Tools:** Linux, Git, CI/CD pipelines[cite: 1]
+- **Languages:** C++, Python, JavaScript, SQL
+- **Backend & Databases:** MySQL, MongoDB, Node.js, Express.js, RESTful APIs, WebSockets, Redis
+- **Core CS:** Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks
+- **System Design:** Distributed Systems, Object-Oriented Design
+- **AI/ML:** AI/ML Fundamentals, NLP, Generative AI
+- **Development Tools:** Linux, Git, CI/CD pipelines
 
 ### 📊 GitHub & Coding Status
 
