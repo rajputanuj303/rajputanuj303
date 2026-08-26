@@ -6,6 +6,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajputanuj303&hide_border=true&theme=radical" alt="GitHub Streak" width="48%" />
 
   <!-- LeetCode Stats Card -->
-  <img src="https://leetcard.jacoblin.cool/rajputanuj303?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" width="48%" />
+  <img src="https://leetcard.jacoblin.cool/rajputanuj303?theme=dark&font=Syne&ext=contest" alt="LeetCode Stats" width="48%" />
 
 </div>
