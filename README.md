@@ -17,7 +17,7 @@
 - **Languages:** C++, Python, JavaScript, SQL
 - **Backend & Databases:** MySQL, MongoDB, Node.js, Express.js, RESTful APIs, WebSockets, Redis
 - **Core CS:** Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks
-- **System Design:** Object-Oriented Design (OOD), Low-Level Design (LLD), REST API Design, Design Patterns (SOLID), Microservices, Distributed Systems Basics
+- **System Design:** Object-Oriented Design (OOD), Low-Level Design (LLD), REST API Design, Design Patterns (SOLID), Microservices
 - **AI/ML:** AI/ML Fundamentals, Generative AI, NLP, LLM Integration, Prompt Engineering, RAG
 - **Development Tools:** Linux, Git, CI/CD pipelines
 
