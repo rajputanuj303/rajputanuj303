@@ -39,6 +39,13 @@
   </a>
 </p>
 
+<p align="center">
+  <!-- Codeforces Stats Card -->
+  <a href="https://codeforces.com/profile/rajputanuj303">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=rajputanuj303&theme=transparent&hide_border=true" alt="Anuj's Codeforces Stats" />
+  </a>
+</p>
+
 ### 📫 Connect with me
 - **LinkedIn:** [anujrajput303](https://linkedin.com/in/anujrajput303)
 - **Email:** rajputanuj303@gmail.com
