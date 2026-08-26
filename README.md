@@ -21,6 +21,11 @@
 - **AI/ML:** AI/ML Fundamentals, Generative AI, NLP, LLM Integration, Prompt Engineering, RAG
 - **Development Tools:** Linux, Git, CI/CD pipelines
 
+### 💻 Featured Projects
+- **DSA Pair Programmer** - Real-time educational tool for algorithm complexity analysis achieving sub-200ms latency.
+- **Quick-Chat App** - High-performance WebSocket chat supporting 500+ concurrent users with sub-50ms latency.
+- **InterviewIQ.AI** - AI mock interview platform built with React, Node.js, and MongoDB, integrating OpenRouter and Razorpay.
+
 ### 📊 GitHub & Coding Status
 
 <p align="center">
