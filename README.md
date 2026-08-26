@@ -51,5 +51,5 @@
 - **LeetCode:** [rajputanuj303](https://leetcode.com/u/rajputanuj303)
 - **Codeforces:** [rajputanuj303](https://codeforces.com/profile/rajputanuj303)
 - **GitHub:** [rajputanuj303](https://github.com/rajputanuj303)
-- **Linkedin** [rajputanuj303](https://www.linkedin.com/in/anujrajput303/)
-- **X** [rajputanuj303](https://x.com/rajputanuj303)
+- **Linkedin:** [rajputanuj303](https://www.linkedin.com/in/anujrajput303/)
+- **X:** [rajputanuj303](https://x.com/rajputanuj303)
