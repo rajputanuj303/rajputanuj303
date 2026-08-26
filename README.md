@@ -29,7 +29,7 @@ AI-powered applications, and strengthening problem-solving skills.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rajputanuj303&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&rank_icon=github" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajputanuj303&layout=compact&langs_count=8&hide_border=true&theme=github_dark" height="170"/>
 
