@@ -1,3 +1,6 @@
+<!-- Header Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=120&section=header" alt="Header Wave" width="100%" />
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=500&duration=2000&color=2196F3&center=true&vCenter=true&width=800&lines=Hi,+I+am+Anuj;Backend+Software+Engineer;C%2B%2B+%26+Networking+Enthusiast;Solved+1000%2B+DSA+Problems" alt="Typing SVG" />
 </h1>
@@ -57,3 +60,6 @@
   <strong>E-Mail:</strong> <a href="mailto:rajputanuj303@gmail.com">rajputanuj303@gmail.com</a> &nbsp;&nbsp;|&nbsp;&nbsp;
   <strong>Phone:</strong> +91 8929765470
 </p>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0175C2,50:40C4FF,100:02569B&height=100&section=footer&animation=fadeIn" />
