@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi,+I+am+Anuj;I+am+a+Software+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=500&duration=2000&color=2196F3&center=true&vCenter=true&width=800&lines=Hi,+I+am+Anuj;Backend+Software+Engineer;C%2B%2B+%26+Networking+Enthusiast;Solved+1000%2B+DSA+Problems" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -9,19 +9,19 @@
 ---
 
 ### 👨🏻‍💻 About Me
-- 🎓 I am pursuing a B.Tech in Computer Science and Engineering (AIML) at Noida Institute of Engineering and Technology[cite: 1].
-- 💼 I previously worked as a Web Development Intern at Booking-Jini[cite: 1].
-- 🏆 I have solved 1000+ DSA problems, achieving a peak rating of 1800 on LeetCode and 1273 on Codeforces[cite: 1].
+- 🎓 I am pursuing a B.Tech in Computer Science and Engineering (AIML) at Noida Institute of Engineering and Technology.
+- 💼 I previously worked as a Web Development Intern at Booking-Jini.
+- 🏆 I have solved 1000+ DSA problems, achieving a peak rating of 1800 on LeetCode and 1273 on Codeforces.
 
 ### 🚀 Coding Profiles
-- **LeetCode:** [rajputanuj303](https://leetcode.com/u/rajputanuj303)[cite: 1]
-- **Codeforces:** [rajputanuj303](https://codeforces.com/profile/rajputanuj303)[cite: 1]
-- **GitHub:** [rajputanuj303](https://github.com/rajputanuj303)[cite: 1]
+- **LeetCode:** [rajputanuj303](https://leetcode.com/u/rajputanuj303)
+- **Codeforces:** [rajputanuj303](https://codeforces.com/profile/rajputanuj303)
+- **GitHub:** [rajputanuj303](https://github.com/rajputanuj303)
 
 ### 🛠️ Tech Stack
-- **Languages:** C++, Python, JavaScript, SQL[cite: 1]
-- **Backend & Databases:** MySQL, MongoDB, Node.js, Express.js, RESTful APIs, WebSockets, Redis[cite: 1]
-- **Core CS:** Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks[cite: 1]
+- **Languages:** C++, Python, JavaScript, SQL
+- **Backend & Databases:** MySQL, MongoDB, Node.js, Express.js, RESTful APIs, WebSockets, Redis
+- **Core CS:** Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks
 
 ### 📊 GitHub & Coding Status
 
@@ -33,12 +33,12 @@
 </p>
 
 <p align="center">
-  <!-- LeetCode Stats Card (Requires LeetCode Readme Stats integration) -->
+  <!-- LeetCode Stats Card -->
   <a href="https://leetcode.com/u/rajputanuj303">
-    <img src="https://leetcard.jacoblin.cool/rajputanuj303?theme=transparent&ext=contest" alt="Anuj's LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/rajputanuj303?theme=transparent&ext=activity" alt="Anuj's LeetCode Stats" />
   </a>
 </p>
 
 ### 📫 Connect with me
-- **LinkedIn:** [anujrajput303](https://linkedin.com/in/anujrajput303)[cite: 1]
-- **Email:** rajputanuj303@gmail.com[cite: 1]
+- **LinkedIn:** [anujrajput303](https://linkedin.com/in/anujrajput303)
+- **Email:** rajputanuj303@gmail.com
