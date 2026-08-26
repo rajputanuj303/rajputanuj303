@@ -13,11 +13,6 @@
 - 💼 I previously worked as a Web Development Intern at Booking-Jini.
 - 🏆 I have solved 1000+ DSA problems, achieving a peak rating of 1800 on LeetCode and 1273 on Codeforces.
 
-### 🚀 Coding Profiles
-- **LeetCode:** [rajputanuj303](https://leetcode.com/u/rajputanuj303)
-- **Codeforces:** [rajputanuj303](https://codeforces.com/profile/rajputanuj303)
-- **GitHub:** [rajputanuj303](https://github.com/rajputanuj303)
-
 ### 🛠️ Tech Stack
 - **Languages:** C++, Python, JavaScript, SQL
 - **Backend & Databases:** MySQL, MongoDB, Node.js, Express.js, RESTful APIs, WebSockets, Redis
@@ -46,6 +41,10 @@
   </a>
 </p>
 
-### 📫 Connect with me
-- **LinkedIn:** [anujrajput303](https://linkedin.com/in/anujrajput303)
-- **Email:** rajputanuj303@gmail.com
+### 📫 Links
+### 🚀 Coding Profiles
+- **LeetCode:** [rajputanuj303](https://leetcode.com/u/rajputanuj303)
+- **Codeforces:** [rajputanuj303](https://codeforces.com/profile/rajputanuj303)
+- **GitHub:** [rajputanuj303](https://github.com/rajputanuj303)
+- **Linkedin** [rajputanuj303](https://www.linkedin.com/in/anujrajput303/)
+- **X** [rajputanuj303](https://x.com/rajputanuj303)
