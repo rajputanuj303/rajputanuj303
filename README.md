@@ -1,5 +1,10 @@
 <div align="center">
 
+<div align="center">
+
+<img src="./stats/userstats.svg" width="850"/>
+
+</div>
 # Anuj Rajput
 
 **Software Developer · Full-Stack · AI/GenAI · Competitive Programming**
