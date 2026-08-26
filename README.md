@@ -47,9 +47,15 @@
 </p>
 
 ### 📫 Profiles
-- **LeetCode:** [rajputanuj303](https://leetcode.com/u/rajputanuj303)
-- **Codeforces:** [rajputanuj303](https://codeforces.com/profile/rajputanuj303)
-- **GitHub:** [rajputanuj303](https://github.com/rajputanuj303)
-- **Linkedin:** [rajputanuj303](https://www.linkedin.com/in/anujrajput303/)
-- **E-Mail:** rajputanuj303@gmail.com
-- **Phone:** +91 8929765470
+
+<p align="center">
+  <strong>LeetCode:</strong> <a href="https://leetcode.com/u/rajputanuj303">rajputanuj303</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <strong>Codeforces:</strong> <a href="https://codeforces.com/profile/rajputanuj303">rajputanuj303</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <strong>GitHub:</strong> <a href="https://github.com/rajputanuj303">rajputanuj303</a>
+</p>
+
+<p align="center">
+  <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/rajputanuj303">rajputanuj303</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <strong>E-Mail:</strong> <a href="mailto:rajputanuj303@gmail.com">rajputanuj303@gmail.com</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <strong>Phone:</strong> +91 8929765470
+</p>
