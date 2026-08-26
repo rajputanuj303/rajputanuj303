@@ -31,7 +31,7 @@
 <p align="center">
   <!-- LeetCode and Codeforces Cards (Side-by-side full width) -->
   <a href="https://leetcode.com/u/rajputanuj303">
-    <img src="https://leetcard.jacoblin.cool/rajputanuj303?theme=transparent&hide_border=true&ext=contest" alt="Anuj's LeetCode Stats" width="46%" />
+    <img src="https://leetcard.jacoblin.cool/rajputanuj303?theme=transparent&ext=contest" alt="Anuj's LeetCode Stats" width="46%" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/rajputanuj303">
