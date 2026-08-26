@@ -9,9 +9,9 @@
 ---
 
 ### 👨🏻‍💻 About Me
-- 🎓 I am pursuing a B.Tech in Computer Science and Engineering (AIML) at Noida Institute of Engineering and Technology.
-- 💼 I previously worked as a Web Development Intern at Booking-Jini.
-- 🏆 I have solved 1000+ DSA problems, achieving a peak rating of 1800 on LeetCode and 1273 on Codeforces.
+- I am pursuing a B.Tech in Computer Science and Engineering (AIML) at Noida Institute of Engineering and Technology.
+- I previously worked as a Web Development Intern at Booking-Jini.
+- I have solved 1000+ DSA problems, achieving a peak rating of 1800 on LeetCode and 1273 on Codeforces.
 
 ### 🛠️ Tech Stack
 - **Languages:** C++, Python, JavaScript, SQL
