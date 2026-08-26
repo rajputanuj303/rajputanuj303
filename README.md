@@ -51,5 +51,5 @@
 - **Codeforces:** [rajputanuj303](https://codeforces.com/profile/rajputanuj303)
 - **GitHub:** [rajputanuj303](https://github.com/rajputanuj303)
 - **Linkedin:** [rajputanuj303](https://www.linkedin.com/in/anujrajput303/)
-- **E-Mail: ** rajputanuj303@gmail.com
-- **Phone: ** +91 8929765470
+- **E-Mail:** rajputanuj303@gmail.com
+- **Phone:** +91 8929765470
