@@ -35,7 +35,7 @@
 <p align="center">
   <!-- LeetCode Stats Card -->
   <a href="https://leetcode.com/u/rajputanuj303">
-    <img src="https://leetcard.jacoblin.cool/rajputanuj303?theme=transparent&ext=activity" alt="Anuj's LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/rajputanuj303?theme=transparent&ext=contest" alt="Anuj's LeetCode Stats" />
   </a>
 </p>
 
