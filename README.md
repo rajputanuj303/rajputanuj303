@@ -46,8 +46,7 @@
   </a>
 </p>
 
-### 📫 Links
-### 🚀 Coding Profiles
+### 📫 Profiles
 - **LeetCode:** [rajputanuj303](https://leetcode.com/u/rajputanuj303)
 - **Codeforces:** [rajputanuj303](https://codeforces.com/profile/rajputanuj303)
 - **GitHub:** [rajputanuj303](https://github.com/rajputanuj303)
